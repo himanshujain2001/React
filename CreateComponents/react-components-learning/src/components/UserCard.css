@@ -1,0 +1,14 @@
+.card-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: antiquewhite;
+    gap: 10px;
+    padding: 25px;
+}
+
+.card-img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
